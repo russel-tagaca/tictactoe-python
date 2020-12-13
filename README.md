@@ -1,5 +1,5 @@
 # tictactoe-python
-![Image of Sample](https://github.com/russel-tagaca/tictactoe-python/images/ttt_sample.png)
+![Image of Sample](https://github.com/russel-tagaca/tictactoe-python/blob/main/images/ttt_sample.png)
 
 Tic-Tac-Toe - Python program
 
