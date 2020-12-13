@@ -7,5 +7,6 @@ libraries used:
   tkinter
   tkinter.messagebox
 
-just the regular tic tac toe
+your regular tic tac toe
+
 2 player game
